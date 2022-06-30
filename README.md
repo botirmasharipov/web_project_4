@@ -27,7 +27,7 @@ Technologies and concepts:
 ## Installation
 
 ```bash
-git clone https://botirmasharipov.github.io/-web_project_4/
+git clone https: https://botirmasharipov.github.io/-web_project_4/
 
 npm install  # install dependencies
 
